@@ -1,0 +1,110 @@
+[
+    {
+        "precio": 20,
+        "id": 1,
+        "title": "Replica de carnyx",
+        "age": "Edad del Hierro Celta, desde 300 a.C. a 500 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/car.jpg"
+    },
+
+
+    {
+        "precio": 25,
+        "id": 2,
+        "title": "Espada de antenas",
+        "age": "Edad del Bronze Celta, desde 3300 a.C a 1200 a.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/celt.jpg"
+    },
+
+
+    {
+        "precio": 34,
+        "id": 3,
+        "title": "Corona Hungara",
+        "age": "Alta Edad Media, aproximadamente 1000 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/crown.jpg"
+    },
+
+
+    {
+        "precio": 10,
+        "id": 4,
+        "title": "Casco egipcio",
+        "age": "Plena Edad Media, aproximadamente 1340 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/egy.jpg"
+    },
+
+
+    {
+        "precio": 20,
+        "id": 5,
+        "title": "Bandera americana",
+        "age": "Era industrial, aproximadamente 1863 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/flag.jpg"
+    },
+
+
+    {
+        "precio": 15,
+        "id": 6,
+        "title": "Guandao chino",
+        "age": "Alta Edad Medieval, aproximadamente siglo 11 d.c",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/guan.jpg"
+    },
+
+
+    {
+        "precio": 15,
+        "id": 7,
+        "title": "Alabarda medieval",
+        "age": "Plena Edad Media, aproximadamente 1340 d.C", 
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/hal.jpg"
+    },
+
+
+    {
+        "precio": 15,
+        "id": 8,
+        "title": "Casco de caballero",
+        "age": "Alta Edad Media, aproximadamente 1200 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/helm.jpg"
+    },
+
+
+    {
+        "precio": 10,
+        "id": 9,
+        "title": "Copia manuscrito japones",
+        "age": "Era Industrial, aproximadamente 1885 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/jap.jpg"
+    },
+
+
+    {
+        "precio": 25,
+        "id": 10,
+        "title": "Replica de un mosquete europeo",
+        "age": "Era Moderna, aproximadamente 1650 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/match.jpg"
+    },
+
+
+    {
+        "precio": 10,
+        "id": 11,
+        "title": "Bandera del Ejercito Trigarante",
+        "age": "Era Industrial, aproximadamente 1820 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/tri.jpg"
+    },
+
+
+    {
+        "precio": 15,
+        "id": 12,
+        "title": "Sable indio estilo Tulwar",
+        "age": "Era Industrial, aproximadamente 1867 d.C",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/img_test/tul.png"
+    }
+
+
+]

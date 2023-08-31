@@ -1,0 +1,23 @@
+header{
+    width: 1250px;
+    height: 120px;
+    margin: 0 auto;
+    float: center;
+    text-align: center;
+    background-color: rgb(50, 54, 72);
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(213, 213, 225);
+}
+
+footer {
+    width: 1240px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(50, 54, 72);
+    float: center;
+    text-align: center;
+    color: aliceblue;
+}
